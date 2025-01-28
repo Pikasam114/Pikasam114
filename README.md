@@ -1,6 +1,6 @@
 ### Hi there 👋 , I'm **Samir Gurung**
 
-- 🔭 I’m currently studying in IOE Pashchimanchal Campus
+- 🔭 I graduated from IOE Pashchimanchal Campus in Bacherlors in Computer Engineering
 - 🌱 I’m currently learning Python / Web Development
 - 📫 How to reach me: **samirgurung114@gmail.com
 - ⚡ Fun fact: Mitochondria is the powerhouse of a cell.
